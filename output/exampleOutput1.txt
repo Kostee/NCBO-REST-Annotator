@@ -1,0 +1,5424 @@
+Class details
+	id: http://www.semanticweb.org/ontologies/2011/1/Ontology1296772722296.owl#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PDON
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/ICPC2P/A79001
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ICPC2P
+
+
+Class details
+	id: http://sweetontology.net/phenBiol/Cancer
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCBITaxon_6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/FOODON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCBITaxon_6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontoparonmed#Cancer
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONTOPARON
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP7106-0
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0004992
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/GECKO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0004992
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/MONDO
+
+
+Class details
+	id: http://bioportal/bioontology.org/ontologies/HIVO0004#OWLClass_2378bbb5_a0f0_46cc_9450_9c5906f64f0c
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/HIVO004
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0006826
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/OMIM/MTHU070317
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/OMIM
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305
+	prefLabel: Malignant Neoplasm
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://bioontology.org/projects/ontologies/birnlex#birnlex_406
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/BIRNLEX
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontolurgences#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/EGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI_IEE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/SCDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/NLMVS/2.16.840.1.113883.3.526.3.1010
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NLMVS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/MTHU010328
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/NCBITAXON/6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NCBITAXON
+
+
+Class details
+	id: http://www.semanticweb.org/diwaleva/ontologies/2019/9/fcc-ontology#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/FCC1
+
+
+Class details
+	id: http://chem.deri.ie/granatum#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CANCO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/phenX/070000
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PHENX
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ID_0000020
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CANONT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/MTHU051589
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_12525
+	prefLabel: Nervous system neoplastic disease
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://presence-ontology.org/ontology/Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PREO
+
+
+Class details
+	id: http://purl.org/obo/owl/DOID#DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://purl.org/obo/owl/DOID#DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/NEOMARK4
+
+
+Class details
+	id: http://scai.fraunhofer.de/CSEO#Smoke_and_Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CSEO
+
+
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CCTO_000070
+	prefLabel: Has disease
+	ontology: https://data.bioontology.org/ontologies/CCTOO
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906084373314582
+	prefLabel: Cancer (animal)
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LA10524-9
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MEDLINEPLUS/C0006826
+	prefLabel: Malignancy
+	ontology: https://data.bioontology.org/ontologies/MEDLINEPLUS
+
+
+Class details
+	id: http://radlex.org/RID/RID34616
+	prefLabel: malignant neoplastic disease
+	ontology: https://data.bioontology.org/ontologies/RADLEX
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/RCD/X78ef
+	prefLabel: Malignant tumour
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://www.shojaee.com/shr/shr.owl#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/SHR
+
+
+Class details
+	id: https://id.who.int/icd/entity/50574435
+	prefLabel: Neoplasm, malignant
+	ontology: https://data.bioontology.org/ontologies/MDIM
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_406
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP100805-3
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/NCRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/RBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBIB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OHPI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/DOID
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ODAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OMIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/VO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OHMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/DTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/VICO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/PNADO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/BAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/COVID-19
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/HTN
+
+
+Class details
+	id: http://purl.jp/bio/11/pdo/PDO_000277
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PDO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#2337
+	prefLabel: malignant neoplasms
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontolurgences#TumeurMaligne
+	prefLabel: tumeur maligne
+	ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+
+
+Class details
+	id: http://id.nlm.nih.gov/mesh/D009369
+	prefLabel: Benign Neoplasms
+	ontology: https://data.bioontology.org/ontologies/MDIM
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontolurgences#CancerParLocalisation
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+
+
+Class details
+	id: http://purl.jp/bio/4/id/kb0000000652
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://edamontology.org/topic_2640
+	prefLabel: Oncology
+	ontology: https://data.bioontology.org/ontologies/BMT
+
+
+Class details
+	id: http://edamontology.org/topic_2640
+	prefLabel: Oncology
+	ontology: https://data.bioontology.org/ontologies/EDAM
+
+
+Class details
+	id: http://edamontology.org/topic_2640
+	prefLabel: Oncology
+	ontology: https://data.bioontology.org/ontologies/ITO
+
+
+Class details
+	id: http://www.owl-ontologies.com/NPOntology.owl#DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/NATPRO
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906065688110743
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MEDDRA/10007050
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/MEDDRA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HP_0002664
+	prefLabel: Neoplasm
+	ontology: https://data.bioontology.org/ontologies/DIAB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HP_0002664
+	prefLabel: Neoplasm
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HP_0002664
+	prefLabel: Neoplasm
+	ontology: https://data.bioontology.org/ontologies/HP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HP_0002664
+	prefLabel: Neoplasm
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/116680003
+	prefLabel: Is a
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#34925
+	prefLabel: 34925
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://www.limics.org/hrdo/rdfns#typ_id_6
+	prefLabel: group of diseases
+	ontology: https://data.bioontology.org/ontologies/HRDO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/suicideo
+
+
+Class details
+	id: http://www.isibang.ac.in/ns/codo#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/CODO
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontoparonnoy#Groupe
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ONTOPARON
+
+
+Class details
+	id: http://purl.dataone.org/odo/ECSO_00000526
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ECSO
+
+
+Class details
+	id: http://aims.fao.org/aos/geopolitical.owl#group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO
+
+
+Class details
+	id: http://aims.fao.org/aos/geopolitical.owl#group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO-ISF
+
+
+Class details
+	id: http://purl.org/obo/owl/CHEBI#CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/NPO
+
+
+Class details
+	id: http://www.limics.fr/ontologies/ontopsychiasoc#Groupe
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ONTOPSYCHIA
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005
+	prefLabel: Population Group
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://doe-generated-ontology.com/OntoAD#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ONTOAD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/AGRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/FB-CV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/MOP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/VDOT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/CHEBI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/DOID
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/PHIPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/MCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/RNAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ENVO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/FYPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/OCMR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/RXNO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/PORO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/PLANTSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/NBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CHEBI_24433
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/PECO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C17005
+	prefLabel: Population Group
+	ontology: https://data.bioontology.org/ontologies/OPMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C17005
+	prefLabel: Population Group
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C17005
+	prefLabel: Population Group
+	ontology: https://data.bioontology.org/ontologies/KTAO
+
+
+Class details
+	id: http://cbakerlab.unbsj.ca:8080/ontologies/BIM.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/BIM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/HL7/C0441833
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#34924
+	prefLabel: 34924
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.allotrope.org/ontologies/material#AFM_0001084
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/AFO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/246261001
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#57621
+	prefLabel: 57621
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/389109008
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/389109008
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ACESO
+
+
+Class details
+	id: http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/BCI-O
+
+
+Class details
+	id: http://sweetontology.net/propCategorical/Group
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MEDDRA
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ROO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/NDDF
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ICD9CM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ATC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MSTDE-FRE
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ICPC2P
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/WHO-ART
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/AI-RHEUM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MDDB
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/COSTART
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MESH
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/HCPCS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ICD10CM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ICD10PCS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ICD10
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/RXNORM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/CRISP
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/NCBITAXON
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MSTDE
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/STY
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/OMIM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VANDF
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/CPT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MEDLINEPLUS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/NDFRT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/PDQ
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T096
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/SNMI
+
+
+Class details
+	id: http://www.owl-ontologies.com/assert.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ONTOKBCF
+
+
+Class details
+	id: http://www.owl-ontologies.com/Ontology1361987617.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/BNO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0441833
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://vocabularies.wikipathways.org/gpml#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/GPML
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/sep_00077
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/SEP
+
+
+Class details
+	id: http://www.imgt.org/download/IMGT-ONTOLOGY/IMGT-ONTOLOGY-v1-0-3.owl#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/IMGT-ONTOLOGY
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/RCD/X75Rn
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42685
+	prefLabel: Group Object
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/HL7/C1561557
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://www.w3.org/2006/vcard/ns#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO
+
+
+Class details
+	id: http://www.w3.org/2006/vcard/ns#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO-ISF
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/FOAF
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/ERO
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/SEPIO
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/MODSCI
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/BRIDG
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ONTOPBM
+
+
+Class details
+	id: http://xmlns.com/foaf/0.1/Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/VIVO-ISF
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38027
+	prefLabel: Stage Grouping
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: https://w3id.org/biolink/vocab/Agent
+	prefLabel: agent
+	ontology: https://data.bioontology.org/ontologies/BLM
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906003938764196
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Group
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://hadatac.org/ont/hasco/SOCGroup
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://hadatac.org/ont/hasco/SOCGroup
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://hadatac.org/ont/hasco/SOCGroup
+	prefLabel: group
+	ontology: https://data.bioontology.org/ontologies/HASCO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42684
+	prefLabel: User Group
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/ACESO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C43359
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GAZ_00378987
+	prefLabel: Group
+	ontology: https://data.bioontology.org/ontologies/GAZ
+
+
+Class details
+	id: http://edamontology.org/topic_0634
+	prefLabel: Pathology
+	ontology: https://data.bioontology.org/ontologies/BMT
+
+
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000408
+	prefLabel: disease
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000408
+	prefLabel: disease
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0000001
+	prefLabel: disease or disorder
+	ontology: https://data.bioontology.org/ontologies/ICO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0000001
+	prefLabel: disease or disorder
+	ontology: https://data.bioontology.org/ontologies/DUO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0000001
+	prefLabel: disease or disorder
+	ontology: https://data.bioontology.org/ontologies/GECKO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0000001
+	prefLabel: disease or disorder
+	ontology: https://data.bioontology.org/ontologies/MONDO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MESH/D004194
+	prefLabel: Disease
+	ontology: https://data.bioontology.org/ontologies/MESH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OGMS_0000031
+	prefLabel: disease
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991
+	prefLabel: Disease or Disorder
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_5159000
+	prefLabel: disease_state
+	ontology: https://data.bioontology.org/ontologies/NEMO
+
+
+Class details
+	id: http://www.owl-ontologies.com/assert.owl#Diseases
+	prefLabel: Diseases
+	ontology: https://data.bioontology.org/ontologies/ONTOKBCF
+
+
+Class details
+	id: http://www.humannervousystem.org/KAnOE/2014/dave86#Diseases
+	prefLabel: Diseases
+	ontology: https://data.bioontology.org/ontologies/HNS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C2991
+	prefLabel: Disease or Disorder
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2018/1/ProstateCancer.owl#Diseases
+	prefLabel: Diseases
+	ontology: https://data.bioontology.org/ontologies/PCAO
+
+
+Class details
+	id: http://id.nlm.nih.gov/mesh/D004194
+	prefLabel: Disease
+	ontology: https://data.bioontology.org/ontologies/MDIM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/RCD/X0003
+	prefLabel: Disorders
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#4014
+	prefLabel: disease
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#32161
+	prefLabel: 32161
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C1314939
+	prefLabel: involving
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/248448006
+	prefLabel: Involved
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#58020
+	prefLabel: 58020
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0392760
+	prefLabel: involving
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FYPO_0002862
+	prefLabel: abnormal cell growth
+	ontology: https://data.bioontology.org/ontologies/FYPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBcv_0000427
+	prefLabel: abnormal cell growth
+	ontology: https://data.bioontology.org/ontologies/FB-CV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBcv_0000427
+	prefLabel: abnormal cell growth
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBcv_0000427
+	prefLabel: abnormal cell growth
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://www.ebi.ac.uk/cmpo/CMPO_0000316
+	prefLabel: abnormal cell growth
+	ontology: https://data.bioontology.org/ontologies/CMPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000003
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000003
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/HHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MP_0000358
+	prefLabel: abnormal cell morphology
+	ontology: https://data.bioontology.org/ontologies/MP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MP_0000358
+	prefLabel: abnormal cell morphology
+	ontology: https://data.bioontology.org/ontologies/CHIRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MP_0000358
+	prefLabel: abnormal cell morphology
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0333717
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ZP_0130283
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#29804
+	prefLabel: 29804
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/39266006
+	prefLabel: Abnormal cell
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906007249777391
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PLANP_0000363
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12913
+	prefLabel: Abnormal Cell
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/DOID
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/HHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0001061
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/XPO_0100004
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/XPO_0100004
+	prefLabel: abnormal cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C23843
+	prefLabel: Murine Abnormal Cells
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://bmi.utah.edu/ontologies/hfontology/C0205161
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/HFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MFO_0001040
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/MFO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/263654008
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TRAK_0001329
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/TRAK
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/APO_0000002
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/APO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118396
+	prefLabel: TP53 Gene Mutation
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNMI/G-A210
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/SNMI
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP28764-6
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/NIFDYS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/PHIPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/HOIP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/TXPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/PATO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/KTAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/MS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/FYPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/CMPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/FLOPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/ONTONEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/OMP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/HTN
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/RCD/XC05B
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2009/3/ontoDPN.owl#Abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/EPO
+
+
+Class details
+	id: http://www.ifomis.org/acgt/1.0#Abnormal
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/ACGT-MO
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Abnormal
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0205161
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://radlex.org/RID/RID28453
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/RADLEX
+
+
+Class details
+	id: http://www.limics.fr/ontologies/menelastop#Abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/TOP-MENELAS
+
+
+Class details
+	id: http://purl.org/obo/owl/PATO#PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.org/obo/owl/PATO#PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://purl.org/obo/owl/PATO#PATO_0000460
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/ONSTR
+
+
+Class details
+	id: http://semanticscience.org/resource/Abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://semanticscience.org/resource/Abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://www.limics.fr/ontologies/menelastop/Abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/ONTOPSYCHIA
+
+
+Class details
+	id: http://www.co-ode.org/ontologies/galen#abnormal
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/GALEN
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25401
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#20360
+	prefLabel: 20360
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/HL7/C1550458
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78802
+	prefLabel: Abnormal Reference Range
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/WBPhenotype_0000886
+	prefLabel: nematode phenotype
+	ontology: https://data.bioontology.org/ontologies/WB-PHENOTYPE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/WBPhenotype_0000886
+	prefLabel: nematode phenotype
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_000555
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/SIO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_000555
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_000555
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/BIOMO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_000555
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/HASCO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_000555
+	prefLabel: abnormal
+	ontology: https://data.bioontology.org/ontologies/HHEAR
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LA12748-2
+	prefLabel: Abnormal
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP420449-3
+	prefLabel: Cell growth
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16402
+	prefLabel: Cell Growth
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/IEV_0000091
+	prefLabel: Cell growth
+	ontology: https://data.bioontology.org/ontologies/PTS
+
+
+Class details
+	id: http://www.pepathway.org/peo/1.2#cell_growth
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/PE-O
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#2588
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/LIFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/PHAGE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/HOIP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/CLO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/TXPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/FYPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/CMPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/GO-EXT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/GO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/COVID-19
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906017820904210
+	prefLabel: Cell Proliferation
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://www.bootstrep.eu/ontology/GRO#CellGrowth
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/GRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GSSO_005262
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://localhost/plosthes.2017-1#1220
+	prefLabel: Cell growth
+	ontology: https://data.bioontology.org/ontologies/PLOSTHES
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0007595
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://www.phoc.org.cn/pmo/class/PMO_00065906
+	prefLabel: Cell Growth
+	ontology: https://data.bioontology.org/ontologies/PMAPP-PMO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/CSP/4007-0026
+	prefLabel: cell proliferation
+	ontology: https://data.bioontology.org/ontologies/CRISP
+
+
+Class details
+	id: http://purl.org/obo/owl/GO#GO_0016049
+	prefLabel: cell growth
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/MTHU065288
+	prefLabel: Cell growth
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://bioontology.org/projects/ontologies/birnlex#birnlex_12
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/BIRNLEX
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ECAO_0104030
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ECAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/VHOG_0001533
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/VHOG
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SIO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GEXO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/REXO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BIOMO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HASCO
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HHEAR
+
+
+Class details
+	id: http://semanticscience.org/resource/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/RETO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60787
+	prefLabel: Cellular Telephone
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://sweetontology.net/phenFluidDynamics/Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ID_0000003
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/BCTEO
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/SPD_0000719
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SPD
+
+
+Class details
+	id: http://www.bootstrep.eu/ontology/GRO#Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GRO
+
+
+Class details
+	id: http://www.bootstrep.eu/ontology/GRO#Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://www.owl-ontologies.com/Ontology1239104585.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/BCGO
+
+
+Class details
+	id: http://www.semanticweb.org/ADMO#cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ADMO
+
+
+Class details
+	id: http://www.stanford.edu/~coulet/phare.owl#Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PHARE
+
+
+Class details
+	id: http://radlex.org/RID/RID39348
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/RADLEX
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GMM_31
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GMM
+
+
+Class details
+	id: http://www.semanticweb.org/hanfei/ontologies/2020/9/untitled-ontology-1306#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/COVID-19-ONT-PM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ExO_0000046
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CSEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ExO_0000046
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PO_0009002
+	prefLabel: plant cell
+	ontology: https://data.bioontology.org/ontologies/PAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PO_0009002
+	prefLabel: plant cell
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PO_0009002
+	prefLabel: plant cell
+	ontology: https://data.bioontology.org/ontologies/GRO-CPGA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PO_0009002
+	prefLabel: plant cell
+	ontology: https://data.bioontology.org/ontologies/FLOPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OGG_3000001056
+	prefLabel: CEL
+	ontology: https://data.bioontology.org/ontologies/OGG
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49867
+	prefLabel: Cell Device
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OGG_3000001057
+	prefLabel: CELP
+	ontology: https://data.bioontology.org/ontologies/OGG
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CLAO_0000947
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CLAO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OARCS_0000214
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OARCS
+
+
+Class details
+	id: https://www.codamono.com/biointerchange/gfvo#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/GFVO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PLANA_0000499
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PLANA_0000499
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PLANA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBbt_00007002
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBbt_00007002
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FBbt_00007002
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/FB-BT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DDANAT_0000401
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/DDANAT_0000401
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/DDANAT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CisaviA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CISAVIADO
+
+
+Class details
+	id: http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_9559000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NEMO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PhmammA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PHMAMMADO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MCCL/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://purl.allotrope.org/ontologies/material#AFM_0000341
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/AFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TrOn_0000958
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TRON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/SIO_010001
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CCO
+
+
+Class details
+	id: http://www.semanticweb.org/owner/ontologies/2014/2/HIVandAIDS.owl#OWLClass_00000002522031359432
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/HIVO004
+
+
+Class details
+	id: http://lsdis.cs.uga.edu/projects/glycomics/propreo#cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PROPREO
+
+
+Class details
+	id: http://doe-generated-ontology.com/OntoAD#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ONTOAD
+
+
+Class details
+	id: http://www.cea.fr/ontotoxnuc#Cellule
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ONTOTOXNUC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MooccuA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/MOOCCUADO
+
+
+Class details
+	id: http://purl.org/obo/owl/GO#GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.org/obo/owl/GO#GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NPO
+
+
+Class details
+	id: http://purl.org/obo/owl/CL#CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/FLU
+
+
+Class details
+	id: http://purl.org/obo/owl/CL#CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.org/obo/owl/CL#CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ONSTR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OPL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CARO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EHDAA2
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/AEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CARO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/VSAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HaroreA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HAROREADO
+
+
+Class details
+	id: https://w3id.org/biolink/vocab/Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BLM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C12508
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://www.ifomis.org/acgt/1.0#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ACGT-MO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FAO_0000018
+	prefLabel: unicellular structure
+	ontology: https://data.bioontology.org/ontologies/FAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FAO_0000018
+	prefLabel: unicellular structure
+	ontology: https://data.bioontology.org/ontologies/FOODON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FAO_0000018
+	prefLabel: unicellular structure
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://www.cvrgrid.org/ontologies/Electrophysiology#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/EP
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0007634
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/XAO_0003012
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/XAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/XAO_0003012
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/XAO_0003012
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/WBbt_0004017
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/WB-BT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/WBbt_0004017
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MESH/D002477
+	prefLabel: Cells
+	ontology: https://data.bioontology.org/ontologies/MESH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HAO_0001091
+	prefLabel: wing cell
+	ontology: https://data.bioontology.org/ontologies/HAO
+
+
+Class details
+	id: http://ecoinformatics.org/oboe/oboe.1.0/oboe-anatomy.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/OBOE-SBC
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C23442
+	prefLabel: Murine Cell Types
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://jermontology.org/ontology/JERMOntology#cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/JERM
+
+
+Class details
+	id: http://onto.eva.mpg.de/ontologies/gfo-bio.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/GFO-BIO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MooculA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/MOOCULADO
+
+
+Class details
+	id: http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Cell.owl#sao1813327414
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NIFCELL
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/CSP/0605-5409
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CRISP
+
+
+Class details
+	id: http://purl.bioontology.org/net/brunel/panda#Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PANDA
+
+
+Class details
+	id: http://purl.org/biotop/biotop.owl#Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BT
+
+
+Class details
+	id: http://purl.org/biotop/biotop.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NATPRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/PhfumiA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PHFUMIADO
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2009/3/ontoDPN.owl#OPPIO_a000202
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EPO
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_12
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NIFDYS
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_12
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TADS_0000594
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TADS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CiinteA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CIINTEADO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TAO_0009000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TAO
+
+
+Class details
+	id: http://id.nlm.nih.gov/mesh/D002477
+	prefLabel: Cells
+	ontology: https://data.bioontology.org/ontologies/MDIM
+
+
+Class details
+	id: http://psink.de/scio/Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/SCIO
+
+
+Class details
+	id: http://cbo.biocomplexity.indiana.edu/svn/cbo/trunk/CBO_1_1_0.owl#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/CBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ICO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/LIFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/IDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NIFDYS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CTENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBOREL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBI_IEE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ORNASEQ
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBIB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ONE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/AISM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/DOID
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/IDO-COVID-19
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/MFMO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/AMPHX
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/IDODEN
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HOIP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TXPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/IDOMAL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HINO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PATO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBCS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/KTAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ODNAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HHEAR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/VIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OHMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/VSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EUPATH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/INO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ONTONEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/STATO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/EHDAA2
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/AEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PSDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ENM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PORO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CLYH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/COVID-19
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TCDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CL_0000000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CEPH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C48694
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48694
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MEDDRA
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ROO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NDDF
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ICD9CM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ATC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MSTDE-FRE
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ICPC2P
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/WHO-ART
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/AI-RHEUM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MDDB
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/COSTART
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MESH
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/HCPCS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ICD10CM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ICD10PCS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ICD10
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/RXNORM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/CRISP
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NCBITAXON
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MSTDE
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/STY
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/OMIM
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/VANDF
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/CPT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/MEDLINEPLUS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NDFRT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/PDQ
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/STY/T025
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/SNMI
+
+
+Class details
+	id: http://ccdb.ucsd.edu/SAO/1.2#sao1813327414
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/SAO
+
+
+Class details
+	id: http://regenbase.org/ontology#RB_0000301
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/RB
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/sao1813327414
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.org/obo/owlapi/fma#FMA_68646
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ZFA_0009000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ZFA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ZFA_0009000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ZFA_0009000
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HAO_0000013
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HAO
+
+
+Class details
+	id: http://sweetontology.net/reprDataModel/Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCBIGene_40813
+	prefLabel: Taf1
+	ontology: https://data.bioontology.org/ontologies/CCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BIPON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CTENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NCRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GEXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/REXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OMIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CLO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CHIRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CCO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ODNAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CMPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/NIGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/RETO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/PORO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GO-EXT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/OMP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0005623
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MoocciA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/MOOCCIADO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TGMA_0000694
+	prefLabel: outer chorionic cell
+	ontology: https://data.bioontology.org/ontologies/TGMA
+
+
+Class details
+	id: http://doe-generated-ontology.com/OntoPneumo#Cellule
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/ONTOPNEUMO
+
+
+Class details
+	id: http://purl.org/sig/ont/fma/fma68646
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/RB
+
+
+Class details
+	id: http://purl.org/sig/ont/fma/fma68646
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/FMA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/BSA_0000035
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/BSAO
+
+
+Class details
+	id: http://www.phoc.org.cn/pmo/class/PMO_00000557
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/PMAPP-PMO
+
+
+Class details
+	id: http://www.co-ode.org/ontologies/galen#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/GALEN
+
+
+Class details
+	id: http://www.w3.org/2006/vcard/ns#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/VIVO
+
+
+Class details
+	id: http://www.w3.org/2006/vcard/ns#Cell
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/VIVO-ISF
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TGMA_0000218
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/TGMA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HaauraA_0000792
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/HAAURAADO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#2603
+	prefLabel: cells
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TGMA_0000698
+	prefLabel: float ridge
+	ontology: https://data.bioontology.org/ontologies/TGMA
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12508
+	prefLabel: Cell
+	ontology: https://data.bioontology.org/ontologies/ENM
+
+
+Class details
+	id: http://semanticscience.org/resource/Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/CHEAR
+
+
+Class details
+	id: http://semanticscience.org/resource/Cell
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/SCO
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906065072486545
+	prefLabel: cell (cytology)
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/COB_0000017
+	prefLabel: cell
+	ontology: https://data.bioontology.org/ontologies/COB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/OMIT_0007312
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/OMIT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LA31297-7
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://www.icn.ch/icnp#Growth
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/ICNP
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MESH/D006128
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/MESH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/IEV_0000142
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/PTS
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64379
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.org/obo/owl/GO#GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.org/obo/owl/GO#GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/ONSTR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C64379
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://purl.org/obo/owl/PATO#PATO_0001433
+	prefLabel: growth quality of occurrent
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Growth_Generic
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16648
+	prefLabel: Tissue Growth
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/OMIM/MTHU000046
+	prefLabel: GROWTH
+	ontology: https://data.bioontology.org/ontologies/OMIM
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Growth
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://regenbase.org/ontology#RB_0000362
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/RB
+
+
+Class details
+	id: http://id.nlm.nih.gov/mesh/D006128
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/MDIM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/LIFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/VDOT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/PHAGE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/PLANP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/PHIPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/IDODEN
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/HOIP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/DPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/TXPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/IDOMAL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/CHIRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/IDOBRU
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/XPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/FYPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/CMPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/NIGO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/ONTONEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/GO-EXT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/OMP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/GO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/GO_0040007
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/HTN
+
+
+Class details
+	id: http://purl.dataone.org/odo/ECSO_00000540
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/ECSO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18825
+	prefLabel: Generalized Growth
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906067008272798
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://radlex.org/RID/RID39547
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/RADLEX
+
+
+Class details
+	id: http://phenomebrowser.net/ontologies/mesh/mesh.owl#D006128
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/RH-MESH
+
+
+Class details
+	id: http://www.phoc.org.cn/pmo/class/PMO_00071163
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/PMAPP-PMO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#5714
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://scai.fraunhofer.de/HuPSON#SCAIVPH_00000284
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+Class details
+	id: http://phenomebrowser.net/ontologies/mesh/mesh.owl#G07.700.320.249
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/RH-MESH
+
+
+Class details
+	id: http://www.co-ode.org/ontologies/galen#Growth
+	prefLabel: Growth
+	ontology: https://data.bioontology.org/ontologies/GALEN
+
+
+Class details
+	id: http://www.bootstrep.eu/ontology/GRO#Growth
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/GRO
+
+
+Class details
+	id: http://sweetontology.net/phenSystem/Growth
+	prefLabel: growth
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#23799
+	prefLabel: potential
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://www.semanticweb.org/rjyy/ontologies/2015/5/ESSO#Potential
+	prefLabel: Potential
+	ontology: https://data.bioontology.org/ontologies/MEPO
+
+
+Class details
+	id: http://www.semanticweb.org/rjyy/ontologies/2015/5/ESSO#Potential
+	prefLabel: Potential
+	ontology: https://data.bioontology.org/ontologies/ESSO
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62230
+	prefLabel: Potential
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0237399
+	prefLabel: potential
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/HL7/C3245505
+	prefLabel: ActMoodPotential
+	ontology: https://data.bioontology.org/ontologies/HL7
+
+
+Class details
+	id: http://www.icn.ch/icnp#Potential
+	prefLabel: Potential
+	ontology: https://data.bioontology.org/ontologies/ICNP
+
+
+Class details
+	id: http://sweetontology.net/propQuantity/Potential
+	prefLabel: potential
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C62230
+	prefLabel: Potential
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://www.projecthalo.com/aura#Invade
+	prefLabel: Invade
+	ontology: https://data.bioontology.org/ontologies/AURA
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Spread
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNMI/G-A665
+	prefLabel: Spreading
+	ontology: https://data.bioontology.org/ontologies/SNMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CO_321_0000064
+	prefLabel: cookie spread factor
+	ontology: https://data.bioontology.org/ontologies/CO-WHEAT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0332261
+	prefLabel: spread
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#29376
+	prefLabel: 29376
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FOODON_00001873
+	prefLabel: food spread
+	ontology: https://data.bioontology.org/ontologies/FOODON
+
+
+Class details
+	id: http://www.semanticweb.org/rjyy/ontologies/2015/5/ESSO#Spread
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/MEPO
+
+
+Class details
+	id: http://www.semanticweb.org/rjyy/ontologies/2015/5/ESSO#Spread
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/ESSO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/RCD/X75Ww
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/RCD
+
+
+Class details
+	id: http://purl.jp/bio/4/id/200906008971755625
+	prefLabel: spread
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+Class details
+	id: http://www.owl-ontologies.com/Ontology1184060740.owl#Spread
+	prefLabel: spread
+	ontology: https://data.bioontology.org/ontologies/EXACT
+
+
+Class details
+	id: http://cerrado.linkeddata.es/ecology/fire#FireSpread
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/FIRE
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65126
+	prefLabel: Smear
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61404
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://sweetontology.net/propFunction/Spread
+	prefLabel: spread
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/SNOMEDCT/410677005
+	prefLabel: Spread
+	ontology: https://data.bioontology.org/ontologies/SNOMEDCT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48522
+	prefLabel: Part Dosing Unit
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#35861
+	prefLabel: 35861
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://rbmsvocabs/EXAMPLE/rbgenr640
+	prefLabel: Parts
+	ontology: https://data.bioontology.org/ontologies/RBMS
+
+
+Class details
+	id: http://sweetontology.net/reprSpaceGeometry3D/Body
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0242821
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_0000174
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/NEMO
+
+
+Class details
+	id: http://radlex.org/RID/RID5950
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/RADLEX
+
+
+Class details
+	id: http://www.icn.ch/icnp#Body
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/ICNP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/NCIT_C13041
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/PREMEDONTO
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP28569-9
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12258
+	prefLabel: Body of Stomach
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_18
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.org/obo/owl/FMA#FMA_20394
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/SDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/EHDA_10316
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/EHDA
+
+
+Class details
+	id: http://www.semanticweb.org/david/ontologies/2013/0/pathLex.owl#1.3.6.1.4.1.19376.1.8.2.1.1150
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/PATHLEX
+
+
+Class details
+	id: http://www.ifomis.org/hdot/HDOT_CORE_010
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/VDOT
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12270
+	prefLabel: Body of the Pancreas
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.org/biotop/biotop.owl#Body
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/BT
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2012/11/abnormalities.owl#phenodb:2227
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/IFAR
+
+
+Class details
+	id: http://purl.org/sig/ont/fma/fma256135
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/FMA
+
+
+Class details
+	id: http://purl.org/sig/ont/fma/fma256135
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/GSSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FMA_256135
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/NIO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/FMA_256135
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/ONTONEO
+
+
+Class details
+	id: http://bioontology.org/projects/ontologies/birnlex#birnlex_18
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/BIRNLEX
+
+
+Class details
+	id: http://doe-generated-ontology.com/OntoAD#C1268086
+	prefLabel: Body structure
+	ontology: https://data.bioontology.org/ontologies/ONTOAD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/AEO_0000103
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/EHDAA2
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/AEO_0000103
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/AEO
+
+
+Class details
+	id: http://purl.org/sig/fma/Body
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/ONSTR
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71893
+	prefLabel: Document Body
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MA_0000004
+	prefLabel: trunk
+	ontology: https://data.bioontology.org/ontologies/MA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/EHDAA_9178
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/EHDAA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MA_0000020
+	prefLabel: back of trunk
+	ontology: https://data.bioontology.org/ontologies/MA
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2009/3/ontoDPN.owl#OPPIO_a000203
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/EPO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/EMAPA_31857
+	prefLabel: trunk
+	ontology: https://data.bioontology.org/ontologies/EMAPA
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13041
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+Class details
+	id: http://purl.jp/bio/11/meo/MEO_0000568
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/MEO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OPMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/RBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/FOVT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OHPI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/AISM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/ODAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OVAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/ENVO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/HSO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/KTAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multi-cellular organism
+	ontology: https://data.bioontology.org/ontologies/ODNAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/ICDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/NPOKB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OCMR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/PORO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/NBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/OCVDAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0000468
+	prefLabel: multi-cellular organism
+	ontology: https://data.bioontology.org/ontologies/CEPH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/A8467_0000060
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/LHN
+
+
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Body
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/SYN
+
+
+Class details
+	id: http://www.ifomis.org/acgt/1.0#Body
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/ACGT-MO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/EHDA_9179
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/EHDA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/CLAO_0001141
+	prefLabel: multicellular organism
+	ontology: https://data.bioontology.org/ontologies/CLAO
+
+
+Class details
+	id: http://purl.org/obo/owlapi/fma#FMA_256135
+	prefLabel: Body
+	ontology: https://data.bioontology.org/ontologies/BIOMODELS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OPMI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OBA
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/RBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/FOVT
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OHPI
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/AISM
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/ODAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OVAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/ENVO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/CL
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/KTAO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/ZP
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/ICDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/ECTO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/UPHENO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/UBERON
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/NPOKB
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/MAXO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OCMR
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/GO-PLUS
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/CIDO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/NBO
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/OCVDAE
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/UBERON_0013702
+	prefLabel: body proper
+	ontology: https://data.bioontology.org/ontologies/CEPH
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/HAO_0000182
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/HAO
+
+
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#24996
+	prefLabel: human body
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/TAO_0001094
+	prefLabel: body
+	ontology: https://data.bioontology.org/ontologies/TAO
+
+
+Class details
+	id: http://www.semanticweb.org/ontologies/2011/1/Ontology1296772722296.owl#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PDON
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.semanticweb.org/ontologies/2011/1/Ontology1296772722296.owl#Medical_risk_factor
+			prefLabel: Medical history factor
+			ontology: https://data.bioontology.org/ontologies/PDON
+		Class details
+			id: http://www.semanticweb.org/ontologies/2011/1/Ontology1296772722296.owl#Risk_factors_for_Parkinson_disease
+			prefLabel: Risk factors for Parkinson disease
+			ontology: https://data.bioontology.org/ontologies/PDON
+		Class details
+			id: http://www.semanticweb.org/ontologies/2011/1/Ontology1296772722296.owl#Etiology_of_Parkinson_disease
+			prefLabel: Etiology of Parkinson disease
+			ontology: https://data.bioontology.org/ontologies/PDON
+Class details
+	id: http://purl.bioontology.org/ontology/ICPC2P/A79001
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ICPC2P
+
+
+Class details
+	id: http://sweetontology.net/phenBiol/Cancer
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/SWEET
+
+
+	Hierarchy annotations
+		Class details
+			id: http://sweetontology.net/phenBiol/Disease
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/SWEET
+		Class details
+			id: http://sweetontology.net/phenBiol/BiologicalPhenomena
+			prefLabel: biological phenomena
+			ontology: https://data.bioontology.org/ontologies/SWEET
+		Class details
+			id: http://sweetontology.net/phen/Phenomena
+			prefLabel: phenomena
+			ontology: https://data.bioontology.org/ontologies/SWEET
+Class details
+	id: http://purl.obolibrary.org/obo/NCBITaxon_6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/FOODON
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_6753
+			prefLabel: Cancridae
+			ontology: https://data.bioontology.org/ontologies/FOODON
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_29964
+			prefLabel: Cancroidea
+			ontology: https://data.bioontology.org/ontologies/FOODON
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_116706
+			prefLabel: Heterotremata
+			ontology: https://data.bioontology.org/ontologies/FOODON
+Class details
+	id: http://purl.obolibrary.org/obo/NCBITaxon_6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_6753
+			prefLabel: Cancridae
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_29964
+			prefLabel: Cancroidea
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://purl.obolibrary.org/obo/NCBITaxon_116706
+			prefLabel: Heterotremata
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+Class details
+	id: http://www.limics.fr/ontologies/ontoparonmed#Cancer
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONTOPARON
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.limics.fr/ontologies/ontoparonmed#Pathologie
+			prefLabel: pathology
+			ontology: https://data.bioontology.org/ontologies/ONTOPARON
+		Class details
+			id: http://www.limics.fr/ontologies/ontoparonnoy#Etat
+			prefLabel: status
+			ontology: https://data.bioontology.org/ontologies/ONTOPARON
+		Class details
+			id: http://www.limics.fr/ontologies/menelastop#ObjetIntentionnel
+			prefLabel: intentional object
+			ontology: https://data.bioontology.org/ontologies/ONTOPARON
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LP7106-0
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0004992
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/GECKO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0000001
+			prefLabel: disease or disorder
+			ontology: https://data.bioontology.org/ontologies/GECKO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/GECKO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/GECKO
+Class details
+	id: http://purl.obolibrary.org/obo/MONDO_0004992
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/MONDO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0005070
+			prefLabel: neoplasm (disease)
+			ontology: https://data.bioontology.org/ontologies/MONDO
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0023370
+			prefLabel: neoplastic disease or syndrome
+			ontology: https://data.bioontology.org/ontologies/MONDO
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0045024
+			prefLabel: cell proliferation disorder
+			ontology: https://data.bioontology.org/ontologies/MONDO
+Class details
+	id: http://bioportal/bioontology.org/ontologies/HIVO0004#OWLClass_2378bbb5_a0f0_46cc_9450_9c5906f64f0c
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/HIVO004
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.semanticweb.org/owner/ontologies/2014/2/HIVandAIDS.owl#OWLClass_00000006906681213883
+			prefLabel: DiseaseOrSyndrome
+			ontology: https://data.bioontology.org/ontologies/HIVO004
+		Class details
+			id: http://www.semanticweb.org/owner/ontologies/2014/2/HIVandAIDS.owl#OWLClass_00000002875056816229
+			prefLabel: BioAbnormality
+			ontology: https://data.bioontology.org/ontologies/HIVO004
+		Class details
+			id: http://bioportal/bioontology.org/ontologies/HIVO0004#OWLClass_6f95ce9d_26ff_4672_9b4a_581fa6c2c25b
+			prefLabel: NaturalObject
+			ontology: https://data.bioontology.org/ontologies/HIVO004
+Class details
+	id: http://sbmi.uth.tmc.edu/ontology/ochv#C0006826
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OCHV
+
+
+	Hierarchy annotations
+		Class details
+			id: http://sbmi.uth.tmc.edu/ontology/ochv#UMLS_Concept
+			prefLabel: UMLS_Concept
+			ontology: https://data.bioontology.org/ontologies/OCHV
+		Class details
+			id: http://www.w3.org/2004/02/skos/core#Concept
+			prefLabel: Concept
+			ontology: https://data.bioontology.org/ontologies/OCHV
+Class details
+	id: http://purl.bioontology.org/ontology/OMIM/MTHU070317
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/OMIM
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.bioontology.org/ontology/OMIM/MTHU000126
+			prefLabel: NEOPLASIA
+			ontology: https://data.bioontology.org/ontologies/OMIM
+Class details
+	id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9305
+	prefLabel: Malignant Neoplasm
+	ontology: https://data.bioontology.org/ontologies/NCIT
+
+
+	Hierarchy annotations
+		Class details
+			id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7062
+			prefLabel: Neoplasm by Special Category
+			ontology: https://data.bioontology.org/ontologies/NCIT
+		Class details
+			id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262
+			prefLabel: Neoplasm
+			ontology: https://data.bioontology.org/ontologies/NCIT
+		Class details
+			id: http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991
+			prefLabel: Disease or Disorder
+			ontology: https://data.bioontology.org/ontologies/NCIT
+Class details
+	id: http://bioontology.org/projects/ontologies/birnlex#birnlex_406
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/BIRNLEX
+
+
+	Hierarchy annotations
+		Class details
+			id: http://bioontology.org/projects/ontologies/birnlex#birnlex_512
+			prefLabel: Cancridae
+			ontology: https://data.bioontology.org/ontologies/BIRNLEX
+		Class details
+			id: http://bioontology.org/projects/ontologies/birnlex#birnlex_501
+			prefLabel: Cancroidea
+			ontology: https://data.bioontology.org/ontologies/BIRNLEX
+		Class details
+			id: http://bioontology.org/projects/ontologies/birnlex#birnlex_487
+			prefLabel: Heterotremata
+			ontology: https://data.bioontology.org/ontologies/BIRNLEX
+Class details
+	id: http://www.limics.fr/ontologies/ontolurgences#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.limics.fr/ontologies/ontolurgences#DiagnosticDeProcessusTumoral
+			prefLabel: diagnostic de processus tumoral
+			ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+		Class details
+			id: http://www.limics.fr/ontologies/ontolurgences#MaladieParMecanisme
+			prefLabel: maladie par mécanisme
+			ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+		Class details
+			id: http://www.limics.fr/ontologies/ontolurgences#EtatPathologique
+			prefLabel: état pathologique
+			ontology: https://data.bioontology.org/ontologies/ONTOLURGENCES
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/EGO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/EGO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/EGO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/EGO
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/PDRO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/PDRO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/PDRO
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#Disposition
+			prefLabel: Disposition
+			ontology: https://data.bioontology.org/ontologies/PDRO
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI_IEE
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/OBI_IEE
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/OBI_IEE
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/OBI_IEE
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONE
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/ONE
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/ONE
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/ONE
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/SCDO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/SCDO_0000267
+			prefLabel: Comorbid Disease
+			ontology: https://data.bioontology.org/ontologies/SCDO
+		Class details
+			id: http://purl.obolibrary.org/obo/DOID_4
+			prefLabel: Disease
+			ontology: https://data.bioontology.org/ontologies/SCDO
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000023
+			prefLabel: Phenotype
+			ontology: https://data.bioontology.org/ontologies/SCDO
+		Class details
+			id: http://purl.obolibrary.org/obo/SCDO_0001000
+			prefLabel: SCDO
+			ontology: https://data.bioontology.org/ontologies/SCDO
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/OBI
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/OBI
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/OBI
+Class details
+	id: http://purl.obolibrary.org/obo/OBI_1110053
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/ONS
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/ONS
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/ONS
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000017
+			prefLabel: realizable entity
+			ontology: https://data.bioontology.org/ontologies/ONS
+Class details
+	id: http://purl.bioontology.org/ontology/NLMVS/2.16.840.1.113883.3.526.3.1010
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NLMVS
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/MTHU010328
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/NCBITAXON/6754
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/NCBITAXON
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.bioontology.org/ontology/NCBITAXON/6753
+			prefLabel: Cancridae
+			ontology: https://data.bioontology.org/ontologies/NCBITAXON
+		Class details
+			id: http://purl.bioontology.org/ontology/NCBITAXON/29964
+			prefLabel: Cancroidea
+			ontology: https://data.bioontology.org/ontologies/NCBITAXON
+		Class details
+			id: http://purl.bioontology.org/ontology/NCBITAXON/116706
+			prefLabel: Heterotremata
+			ontology: https://data.bioontology.org/ontologies/NCBITAXON
+Class details
+	id: http://www.semanticweb.org/diwaleva/ontologies/2019/9/fcc-ontology#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/FCC1
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.semanticweb.org/diwaleva/ontologies/2019/9/fcc-ontology#MedicalCondition
+			prefLabel: MedicalCondition
+			ontology: https://data.bioontology.org/ontologies/FCC1
+Class details
+	id: http://chem.deri.ie/granatum#Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CANCO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://chem.deri.ie/granatum#Disease
+			prefLabel: Disease
+			ontology: https://data.bioontology.org/ontologies/CANCO
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#Disposition
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/CANCO
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#RealizableEntity
+			prefLabel: realizable_entity
+			ontology: https://data.bioontology.org/ontologies/CANCO
+Class details
+	id: http://purl.bioontology.org/ontology/phenX/070000
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PHENX
+
+
+Class details
+	id: http://purl.obolibrary.org/obo/ID_0000020
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CANONT
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/ID_0000005
+			prefLabel: Chemotaxoid
+			ontology: https://data.bioontology.org/ontologies/CANONT
+		Class details
+			id: http://purl.obolibrary.org/obo/ID_0000002
+			prefLabel: Living
+			ontology: https://data.bioontology.org/ontologies/CANONT
+		Class details
+			id: http://purl.obolibrary.org/obo/ID_0000001
+			prefLabel: Substance
+			ontology: https://data.bioontology.org/ontologies/CANONT
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/MTHU051589
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://uri.neuinfo.org/nif/nifstd/birnlex_12525
+	prefLabel: Nervous system neoplastic disease
+	ontology: https://data.bioontology.org/ontologies/NIFSTD
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/DOID_863
+			prefLabel: nervous system disease
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://uri.neuinfo.org/nif/nifstd/birnlex_12796
+			prefLabel: Nervous system disease
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://purl.obolibrary.org/obo/DOID_7
+			prefLabel: disease of anatomical entity
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://purl.obolibrary.org/obo/DOID_4
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://uri.neuinfo.org/nif/nifstd/birnlex_11013
+			prefLabel: Disease
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/NIFSTD
+Class details
+	id: http://presence-ontology.org/ontology/Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/PREO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://presence-ontology.org/ontology/PastMedicalHistory
+			prefLabel: PastMedicalHistory
+			ontology: https://data.bioontology.org/ontologies/PREO
+		Class details
+			id: http://presence-ontology.org/ontology/PatientHistoryFactor
+			prefLabel: PatientHistoryFactor
+			ontology: https://data.bioontology.org/ontologies/PREO
+		Class details
+			id: http://presence-ontology.org/ontology/Factor
+			prefLabel: Factor
+			ontology: https://data.bioontology.org/ontologies/PREO
+Class details
+	id: http://purl.org/obo/owl/DOID#DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/HUPSON
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/HUPSON
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#Disposition
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/HUPSON
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#RealizableEntity
+			prefLabel: realizable_entity
+			ontology: https://data.bioontology.org/ontologies/HUPSON
+Class details
+	id: http://purl.org/obo/owl/DOID#DOID_162
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/NEOMARK4
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.org/obo/owl/DOID#DOID_14566
+			prefLabel: disease of cellular proliferation
+			ontology: https://data.bioontology.org/ontologies/NEOMARK4
+		Class details
+			id: http://purl.obolibrary.org/obo/OBI_1110055
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/NEOMARK4
+		Class details
+			id: http://www.ifomis.org/bfo/1.1/snap#Disposition
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/NEOMARK4
+Class details
+	id: http://scai.fraunhofer.de/CSEO#Smoke_and_Cancer
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/CSEO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://scai.fraunhofer.de/CSEO#CSEO_10000024
+			prefLabel: Disease
+			ontology: https://data.bioontology.org/ontologies/CSEO
+		Class details
+			id: http://www.ifomis.org/snap#Disposition
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/CSEO
+		Class details
+			id: http://www.ifomis.org/snap#RealizableEntity
+			prefLabel: realizable_entity
+			ontology: https://data.bioontology.org/ontologies/CSEO
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/CCONT
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.ebi.ac.uk/efo/EFO_0000616
+			prefLabel: neoplasm
+			ontology: https://data.bioontology.org/ontologies/CCONT
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0023370
+			prefLabel: neoplastic disease or syndrome
+			ontology: https://data.bioontology.org/ontologies/CCONT
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0045024
+			prefLabel: cell proliferation disorder
+			ontology: https://data.bioontology.org/ontologies/CCONT
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/EFO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.ebi.ac.uk/efo/EFO_0000616
+			prefLabel: neoplasm
+			ontology: https://data.bioontology.org/ontologies/EFO
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0023370
+			prefLabel: neoplastic disease or syndrome
+			ontology: https://data.bioontology.org/ontologies/EFO
+		Class details
+			id: http://purl.obolibrary.org/obo/MONDO_0045024
+			prefLabel: cell proliferation disorder
+			ontology: https://data.bioontology.org/ontologies/EFO
+Class details
+	id: http://www.ebi.ac.uk/efo/EFO_0000311
+	prefLabel: cancer
+	ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://www.ebi.ac.uk/efo/EFO_0000616
+			prefLabel: neoplasm
+			ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+		Class details
+			id: http://purl.obolibrary.org/obo/OGMS_0000031
+			prefLabel: disease
+			ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+		Class details
+			id: http://purl.obolibrary.org/obo/BFO_0000016
+			prefLabel: disposition
+			ontology: https://data.bioontology.org/ontologies/OBI_BCGO
+Class details
+	id: http://purl.obolibrary.org/obo/CCTO_000070
+	prefLabel: Has disease
+	ontology: https://data.bioontology.org/ontologies/CCTOO
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.obolibrary.org/obo/CCTO_000006
+			prefLabel: Event state
+			ontology: https://data.bioontology.org/ontologies/CCTOO
+		Class details
+			id: http://purl.obolibrary.org/obo/CCTO_000002
+			prefLabel: Value type
+			ontology: https://data.bioontology.org/ontologies/CCTOO
+		Class details
+			id: http://purl.obolibrary.org/obo/CCTO_000001
+			prefLabel: All
+			ontology: https://data.bioontology.org/ontologies/CCTOO
+Class details
+	id: http://purl.jp/bio/4/id/200906084373314582
+	prefLabel: Cancer (animal)
+	ontology: https://data.bioontology.org/ontologies/IOBC
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.jp/bio/4/id/200906068739531845
+			prefLabel: Brachyura
+			ontology: https://data.bioontology.org/ontologies/IOBC
+		Class details
+			id: http://purl.jp/bio/4/id/200906037731935685
+			prefLabel: crab (animal)
+			ontology: https://data.bioontology.org/ontologies/IOBC
+		Class details
+			id: http://purl.jp/bio/4/id/200906076255119179
+			prefLabel: Reptantia
+			ontology: https://data.bioontology.org/ontologies/IOBC
+Class details
+	id: http://purl.bioontology.org/ontology/LNC/LA10524-9
+	prefLabel: Cancer
+	ontology: https://data.bioontology.org/ontologies/LOINC
+
+
+Class details
+	id: http://purl.bioontology.org/ontology/MEDLINEPLUS/C0006826
+	prefLabel: Malignancy
+	ontology: https://data.bioontology.org/ontologies/MEDLINEPLUS
+
+
+	Hierarchy annotations
+		Class details
+			id: http://purl.bioontology.org/ontology/MEDLINEPLUS/C0006826
+			prefLabel: Malignancy
+			ontology: https://data.bioontology.org/ontologies/MEDLINEPLUS
+		Class details
